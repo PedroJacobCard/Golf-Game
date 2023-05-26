@@ -1,0 +1,2 @@
+In this game I used the basics concepts of JavaScript events and object oriented programming.
+In sum this game is developed into a single "canvas" tag. There is extra tag for the timer that is implemented with a setInterval method.
